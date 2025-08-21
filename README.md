@@ -4,14 +4,9 @@
 
 ---
 
-## 🌟 About Me  
-- 🏫 Currently pursuing **MCA at GL Bajaj, Greater Noida**  
-- 💻 Learning **JavaScript, Web Development (MEAN Stack), and DSA**  
-- 🌱 Passionate about becoming a **Full Stack Web Developer**  
-- 🏋️ Fitness enthusiast (gym + home workouts 💪)  
-- 📚 Sharing my coding journey and projects on GitHub & Linkedin X
 
----
+
+
 
 ## 🚀 Tech Stack  
 - **Frontend:** HTML, CSS, JavaScript  

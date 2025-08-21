@@ -1,16 +1,36 @@
-## Hi there 👋
+# 👋 Hi, I'm Sunny!  
 
-<!--
-**sunnysaini2004/SunnySaini2004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 MCA Student | 💻 Aspiring Full Stack Developer | 🚀 Building projects with **JavaScript, HTML, CSS**  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌟 About Me  
+- 🏫 Currently pursuing **MCA at GL Bajaj, Greater Noida**  
+- 💻 Learning **JavaScript, Web Development (MEAN Stack), and DSA**  
+- 🌱 Passionate about becoming a **Full Stack Web Developer**  
+- 🏋️ Fitness enthusiast (gym + home workouts 💪)  
+- 📚 Sharing my coding journey and projects on GitHub & Linkedin X
+
+---
+
+## 🚀 Tech Stack  
+- **Frontend:** HTML, CSS, JavaScript  
+- **Learning:** Node.js, Express.js, MongoDB, React  
+- **Tools:** Git, GitHub, VS Code  
+
+---
+
+## 📂 Featured Project  
+🌐 **[My Portfolio Website](https://sunnysaini2004.github.io/sunnysainiPortfolio/)**  
+_A responsive personal portfolio showcasing my skills, projects, and contact info._  
+
+---
+
+## 📬 Connect With Me  
+- 📧 Email: **sainisunny2004@gmail.com**  
+- 💼 LinkedIn: [sunnysaini2004](https://www.linkedin.com/in/sunnysaini2004/)  
+- 📸 X: [@Sunny_Saini2004](https://x.com/Sunny_Saini2004)  
+
+---
+
+⭐ _“Always learning, always building!”_  
